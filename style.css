@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.card, .group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+.field {
+    padding-bottom: 5px;
+    width: 100%;
+    text-align: center;
+}
